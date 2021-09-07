@@ -1,0 +1,29 @@
+
+
+
+
+					GAME DESIGN ELEMENTS
+
+
+						1. Characters
+
+							A. Playable Characters : Controlled by the Player
+
+							B. Non Playable Characters : Not Controlled by the Player
+
+						2. Goal	: Aim of the game
+
+						3. Rules : How the game will work
+
+						4. Balanced Rules : Game should neither be too difficult
+
+						5. Adaptivity	: Increasing difficulty as the game progresses
+						
+						6. Elements of Chance and Elements of skills
+
+						7. Feedback : Tells us about our progress in the game
+
+						8. Story 
+
+
+
